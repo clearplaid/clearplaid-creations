@@ -3,25 +3,8 @@
 You can use the [editor on GitHub](https://github.com/clearplaid/clearplaid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Projects
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Portfolio](https://clearplaid.github.io/portfolio/.)
 [Neat](https://project-neat.herokuapp.com/) 
 [Friend or Foe](https://friend-or-foe.herokuapp.com/)
